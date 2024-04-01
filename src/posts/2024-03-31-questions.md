@@ -23,4 +23,7 @@ This list will be updated on an ongoing basis.
 - If the generative AI creates images or text and other content that is offensive or discriminatory, what are the legal risks?
 - Do you have publishing safeguards to avoid going straight from generation to live, just as you would check any content before it goes live, do you have similar or more levels of review for AI-generated content?
 - Is there a risk of surveillance with what I am doing with generative AI?
-- Does my generative AI project reduce personal agency with anyone I am serving? 
+- Does my generative AI project reduce personal agency with anyone I am serving?
+- What are the contents of the data corpus used to train the generative AI?
+- What are the copyright licenses assigned to the contents of the training corpus?
+- Which copyright holders' work is most likely to be used to generate AI outputs?
